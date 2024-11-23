@@ -16,7 +16,7 @@ cd server
 ```
 
 ```sh
-docker-compose down
+docker-compose up
 ```
 
 To run the server:
